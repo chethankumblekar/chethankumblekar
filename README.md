@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chethan K
-📚 currently studying at MVJ College of Engineering, Bengaluru
+Associate Software Engineer at Vela Technologies, Bengaluru India
 
 📫 drop a mail at chethankumblekar@gmail.com
 
