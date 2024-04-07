@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chethan K
-Associate Software Engineer at Vela Technologies, Bengaluru India
+Software Engineer at Vela Technologies (Ascertra), Bengaluru India
 
 📫 drop a mail at chethankumblekar@gmail.com
 
