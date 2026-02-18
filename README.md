@@ -1,87 +1,49 @@
-# 👋 Hi, I'm Chethan Kumblekar  
+# 👋 Hi, I'm Chethan Kumblekar
 
-**Software Engineer | .NET & Azure Specialist | Cloud-Native Builder | System Design Enthusiast**
+**Software Engineer | .NET & Azure | Cloud-Native Systems | System Design**
 
-📍 Bengaluru, India 🇮🇳  
+📍 Bengaluru, India  
+📫 chethankumblekar@gmail.com  
 
-I design and build scalable, production-ready systems using **.NET, Azure, React, and modern cloud architecture principles**.  
-Focused on building systems that handle **real-world scale, observability, security, and performance**.
-
-📫 **Reach me:** chethankumblekar@gmail.com  
+I build scalable, production-grade systems using **.NET, Azure, and React** — focused on performance, security, observability, and clean architecture.
 
 ---
 
-## 🚀 What I’m Currently Building
+## 🚀 What I Build
 
-- 🔹 AI Resume & Cover Letter Generator (CQRS + MediatR + Next.js)
-- 🔹 CloudOps Portal with telemetry analytics & deployment monitoring
-- 🔹 SQL Editor with secure SELECT-only execution & per-user persistence
-- 🔹 Email Scheduler & Notifier Service (Retry logic + Admin Dashboard)
-- 🔹 Cloud-scale architecture simulations (AKS + multi-tier systems)
+- AI-powered developer tools  
+- CloudOps & telemetry-driven platforms  
+- Secure SQL & data tooling  
+- Background services & schedulers  
+- Cloud-scale architectures (AKS, WAF, App Gateway)
 
 ---
 
-## 🏗️ Architecture & Engineering Interests
+## 🧠 Engineering Focus
 
-- Clean Architecture & Modular Monoliths
-- CQRS & MediatR patterns
-- Distributed Systems Design
-- Background Services & Hosted Services (.NET)
-- Cloud Cost Optimization (FinOps)
-- Secure multi-tenant cloud infrastructure
-- High availability & failover design
+- Clean Architecture & CQRS  
+- Distributed Systems  
+- High-availability design  
+- Cloud FinOps & cost optimization  
+- Observability (App Insights, telemetry pipelines)
 
 ---
 
 ## 💻 Tech Stack
 
-### Backend
-- C# / .NET 8
-- ASP.NET Core
-- MediatR
-- Entity Framework Core
-- SQL Server
-
-### Frontend
-- React
-- TypeScript
-- Redux-Saga
-- MUI
-- Next.js
-
-### Cloud & DevOps
-- Microsoft Azure
-- Azure App Services
-- Azure Application Gateway
-- Web Application Firewall (WAF)
-- Application Insights
-- Docker
-- GitHub Actions
-- Azure DevOps
-
-### Data & Tools
-- SQL Server
-- Firebase
-- Chart.js
-- ESLint
+**Backend:** C#, .NET 8, ASP.NET Core, MediatR, EF Core  
+**Frontend:** React, TypeScript, Redux, Next.js  
+**Cloud:** Azure, AKS, App Services, WAF, App Gateway  
+**DevOps:** Docker, GitHub Actions, Azure DevOps  
+**Database:** SQL Server  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-- 🔗 LinkedIn: https://linkedin.com/in/chethankumblekar  
-- 📸 Instagram: https://instagram.com/cipher_crawler  
-- 💬 Stack Overflow: https://stackoverflow.com/users/22760189  
-
----
-
-## 📈 Current Focus
-
-- Advanced System Design preparation  
-- High-scale backend engineering  
-- Fintech-grade architecture patterns  
-- Cloud platform engineering  
+- LinkedIn: https://linkedin.com/in/chethankumblekar  
+- Stack Overflow: https://stackoverflow.com/users/22760189  
 
 ---
 
-⭐ Always building. Always improving. Always shipping.
+⚡ Building systems that scale. Designing systems that last.
