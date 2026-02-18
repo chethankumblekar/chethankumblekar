@@ -1,13 +1,87 @@
-# 💫 About Me:
-### Hi there 👋 I'm Chethan K<br>Software Engineer at Vela Technologies (Ascertra), Bengaluru India<br><br>📫 drop a mail at chethankumblekar@gmail.com
+# 👋 Hi, I'm Chethan Kumblekar  
 
+**Software Engineer | .NET & Azure Specialist | Cloud-Native Builder | System Design Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cipher_crawler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chethankumblekar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22760189) 
+📍 Bengaluru, India 🇮🇳  
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+I design and build scalable, production-ready systems using **.NET, Azure, React, and modern cloud architecture principles**.  
+Focused on building systems that handle **real-world scale, observability, security, and performance**.
+
+📫 **Reach me:** chethankumblekar@gmail.com  
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I’m Currently Building
+
+- 🔹 AI Resume & Cover Letter Generator (CQRS + MediatR + Next.js)
+- 🔹 CloudOps Portal with telemetry analytics & deployment monitoring
+- 🔹 SQL Editor with secure SELECT-only execution & per-user persistence
+- 🔹 Email Scheduler & Notifier Service (Retry logic + Admin Dashboard)
+- 🔹 Cloud-scale architecture simulations (AKS + multi-tier systems)
+
+---
+
+## 🏗️ Architecture & Engineering Interests
+
+- Clean Architecture & Modular Monoliths
+- CQRS & MediatR patterns
+- Distributed Systems Design
+- Background Services & Hosted Services (.NET)
+- Cloud Cost Optimization (FinOps)
+- Secure multi-tenant cloud infrastructure
+- High availability & failover design
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+- C# / .NET 8
+- ASP.NET Core
+- MediatR
+- Entity Framework Core
+- SQL Server
+
+### Frontend
+- React
+- TypeScript
+- Redux-Saga
+- MUI
+- Next.js
+
+### Cloud & DevOps
+- Microsoft Azure
+- Azure App Services
+- Azure Application Gateway
+- Web Application Firewall (WAF)
+- Application Insights
+- Docker
+- GitHub Actions
+- Azure DevOps
+
+### Data & Tools
+- SQL Server
+- Firebase
+- Chart.js
+- ESLint
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/chethankumblekar  
+- 📸 Instagram: https://instagram.com/cipher_crawler  
+- 💬 Stack Overflow: https://stackoverflow.com/users/22760189  
+
+---
+
+## 📈 Current Focus
+
+- Advanced System Design preparation  
+- High-scale backend engineering  
+- Fintech-grade architecture patterns  
+- Cloud platform engineering  
+
+---
+
+⭐ Always building. Always improving. Always shipping.
